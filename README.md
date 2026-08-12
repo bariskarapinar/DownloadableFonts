@@ -1,11 +1,6 @@
 # 🎨 Downloadable Fonts Showcase: An Android Education Journey
 
 <p style="text-align: center;">
-  <img src="https://developer.android.com/static/images/logos/android.svg" width="100" alt="Android Logo" />
-  <img src="https://kotlinlang.org/assets/images/logos/kotlin.svg" width="100" alt="Kotlin Logo" />
-</p>
-
-<p style="text-align: center;">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Platform Android" />
   <img src="https://img.shields.io/badge/Language-Kotlin%20%26%20Java-orange?style=for-the-badge&logo=kotlin" alt="Language Kotlin & Java" />
   <img src="https://img.shields.io/badge/Architecture-MVVM-blue?style=for-the-badge" alt="Architecture MVVM" />
@@ -96,7 +91,14 @@ sequenceDiagram
 
 ## 📸 Visual Showcase
 
-//TODO
+<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/d8019598-047f-4907-b284-48a1673bc946" />
+
+
+
+
+
+
+
 ---
 
 ## 🛠 Tech Stack & Tools
