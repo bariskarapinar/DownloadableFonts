@@ -1,4 +1,4 @@
-# 🎨 Downloadable Fonts Showcase: An Android Education Journey
+# 🎨 Downloadable Fonts
 
 <p style="text-align: center;">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Platform Android" />
@@ -119,14 +119,3 @@ The project uses a sophisticated **Material3** color scheme, ensuring accessibil
 - 🎨 **Animations**: Smooth state transitions between loading and success.
 
 ---
-
-## 🚶‍♂️ Future Roadmap
-
-- [ ] Add Search functionality for 1000+ Google Fonts.
-- [ ] Implement local font caching for offline use.
-- [ ] Support Variable Fonts (weight/slant sliders).
-- [ ] Dark Mode optimization.
-
-
----
-
