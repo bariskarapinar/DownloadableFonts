@@ -91,15 +91,11 @@ sequenceDiagram
 
 ## 📸 Visual Showcase
 
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/d8019598-047f-4907-b284-48a1673bc946" />
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/7be5518c-c980-4a1f-8c9b-1fda3e4146cd" />
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/5fba7558-03ef-47e5-a090-fd62a6fbd929" />
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8019598-047f-4907-b284-48a1673bc946" width="24%">
+  <img src="https://github.com/user-attachments/assets/7be5518c-c980-4a1f-8c9b-1fda3e4146cd" width="24%">
+  <img src="https://github.com/user-attachments/assets/5fba7558-03ef-47e5-a090-fd62a6fbd929" width="24%">
+</p>
 
 ---
 
